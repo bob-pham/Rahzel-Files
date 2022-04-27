@@ -1,6 +1,0 @@
-hello
-
-anything
-
-shit
-
