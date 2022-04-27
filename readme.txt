@@ -1,5 +1,5 @@
 hello
 
-fuck
+anything
 
 shit
